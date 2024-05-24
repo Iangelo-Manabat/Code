@@ -2,7 +2,7 @@
 ## Overview 
 This project is a simple "MyToken" progran that
 demosntrate a smart contract for creating and
-managing a basic token named MyToken(PSO). t
+managing a basic token named MyToken(GAL). t
 includes functionalities for minting new tokens
 and burning existing tokens.
 
@@ -14,8 +14,8 @@ contract MyToken {
 ```
 ## Public Variables 
 ```solidity 
-string public tokenName = "PESO";
-string public tokenAbbrv = "PSO";
+string public tokenName = "GALAXY";
+string public tokenAbbrv = "GAL";
 uint public totalSupply = 0;
 ```
 
